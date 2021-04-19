@@ -2,7 +2,7 @@
 code from my Applications of Machine Learning coursework - kept for preservation purposes.
 
 
-To run the code, start jupyter notebook and run the code with the "bbc" folder in the same directory. 
+To run the code, unzip the bbc folder and start jupyter notebook and run the code with the "bbc" folder in the same directory. 
 
 Execute code blocks sequentially.
 
